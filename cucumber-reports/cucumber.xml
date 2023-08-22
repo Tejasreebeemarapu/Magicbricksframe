@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="78.99" tests="2" skipped="0" failures="0" errors="0">
+<testcase classname="Landing" name="validate User enter number with valid data - Example #1.1" time="40.311">
+<system-out><![CDATA[
+Given Chrome is opened and MagicBrick app is launched.......................passed
+Then User navigates on landing page.........................................passed
+When User clicks on postproperty............................................passed
+Then User navigates to postproperty page....................................passed
+When User clicks on Owner button............................................passed
+When User fills the form from given sheetname "Sheet1" and rownumber 0......passed
+Then User navigates to sell and Rent property...............................passed
+]]></system-out>
+</testcase>
+<testcase classname="Landing" name="validate User enter number with valid data - Example #1.2" time="38.663">
+<system-out><![CDATA[
+Given Chrome is opened and MagicBrick app is launched.......................passed
+Then User navigates on landing page.........................................passed
+When User clicks on postproperty............................................passed
+Then User navigates to postproperty page....................................passed
+When User clicks on Owner button............................................passed
+When User fills the form from given sheetname "Sheet1" and rownumber 1......passed
+Then User navigates to sell and Rent property...............................passed
+]]></system-out>
+</testcase>
+</testsuite>
